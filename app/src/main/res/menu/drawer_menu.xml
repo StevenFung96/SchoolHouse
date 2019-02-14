@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/recent_activity_btn"
+        android:title="Project Progression"
+        android:icon="@drawable/progression"/>
+    <item
+        android:id="@+id/upcoming_event_btn"
+        android:title="Dateline / Meeting Date"
+        android:icon="@drawable/calendar_color"/>
+    <item
+        android:id="@+id/submit_project_btn"
+        android:title="Project Drive"
+        android:icon="@drawable/project_drive"/>
+    <item
+        android:id="@+id/chat_nav_btn"
+        android:title="Chats"
+        android:icon="@drawable/chat"/>
+
+    <item android:title="Settings" >
+        <menu>
+                <item
+                    android:id="@+id/account_settings_btn"
+                    android:title="Account Settings"
+                    android:icon="@drawable/setting"/>
+                <item
+                    android:id="@+id/logout_nav_btn"
+                    android:title="Log Out"
+                    android:icon="@drawable/logout"/>
+        </menu>
+    </item>
+</menu>
+

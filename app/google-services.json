@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1004248695093",
+    "firebase_url": "https://schoolhouse-39a48.firebaseio.com",
+    "project_id": "schoolhouse-39a48",
+    "storage_bucket": "schoolhouse-39a48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004248695093:android:cffcbfd7c01320c2",
+        "android_client_info": {
+          "package_name": "com.example.asus.schoolhouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004248695093-677j7h6d3u469hj2gaidamrcjedhl69c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asus.schoolhouse",
+            "certificate_hash": "39785de1440a88e770b2a1a94d0b77e47510186f"
+          }
+        },
+        {
+          "client_id": "1004248695093-51hlagdmo1ev9g34c9u7jfqt0pg67s21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRzhOBHdIzFrPMlVr8ueTrUhdkvhFfusc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004248695093-51hlagdmo1ev9g34c9u7jfqt0pg67s21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
